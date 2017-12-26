@@ -1,2 +1,4 @@
 ###Running Server
-node filename.js
+run `npm i`
+
+`node filename.js`
