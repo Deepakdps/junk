@@ -1,0 +1,22 @@
+{
+  "name": "junk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debora_chechi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safaldas/junk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safaldas/junk/issues"
+  },
+  "homepage": "https://github.com/safaldas/junk#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
